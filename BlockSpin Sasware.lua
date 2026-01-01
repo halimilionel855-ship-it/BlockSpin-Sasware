@@ -1,4 +1,4 @@
--- Key System Script for Roblox
+-- loadstring(game:HttpGet("https://api.sasware.dev/script/Blockspin.luau"))()Key System Script for Roblox
 -- Replace the verification URL with your actual website URL
 
 -- Create the key verification UI
